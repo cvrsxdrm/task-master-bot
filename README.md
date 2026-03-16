@@ -1,20 +1,21 @@
 # Task Master Bot 🎯
 
-Простой и эффективный Telegram-бот для записи и хранения твоих целей. 
+A simple and efficient Telegram bot designed to record and store your personal goals and tasks.
 
-### Что он умеет:
-* 📝 **Запись целей:** Просто отправь боту текст, и он сохранит его в базу.
-* 📖 **Чтение списка:** Команда `/read` покажет всё, что ты запланировал.
-* ⚡ **Простота:** Никаких лишних настроек, только ты и твои задачи.
+### Features:
+* 📝 **Goal Recording:** Just send a message to the bot, and it will automatically save it to the database.
+* 📖 **View List:** Use the `/read` command to display all your saved goals.
+* ⚡ **Simplicity:** No complex setups—just you and your productivity.
 
-### Технологии:
+### Tech Stack:
 * Python 3
 * pyTelegramBotAPI (telebot)
 
-### Как запустить:
-1. Клонируй репозиторий.
-2. Создай файл `config.py` и добавь туда свой `TOKEN`.
-3. Запусти `main.py`.
+### How to Run:
+1. Clone the repository.
+2. Create a `config.py` file in the root directory.
+3. Add your bot token: `TOKEN = 'your_token_here'`.
+4. Run `python main.py`.
 
 ---
-*Проект создан в рамках обучения Python разработке.*
+*Created as part of a Python development learning journey.*
