@@ -4,7 +4,7 @@ A simple and efficient Telegram bot designed to record and store your personal g
 
 ### Features:
 * 📝 **Goal Recording:** Just send a message to the bot, and it will automatically save it to the database.
-* 📖 **View List:** Use the `/read` command to display all your saved goals.
+* 📖 **View List:** Bot can display all your saved goals.
 * ⚡ **Simplicity:** No complex setups—just you and your productivity.
 
 ### Tech Stack:
